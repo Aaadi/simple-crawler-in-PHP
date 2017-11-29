@@ -1,0 +1,6 @@
+{
+  "require": {
+    "fabpot/goutte": "^3.2",
+    "catfan/medoo": "^1.4"
+  }
+}
